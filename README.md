@@ -9,9 +9,18 @@
 
 ## About Me
 
-I'm a passionate backend developer specializing in **Express.js** and **Node.js** for building robust APIs. I integrate modern technologies like **Firebase**, **React.js**, **HTML**, **CSS**, and leverage **Solidity** for smart contract development alongside my experiments in Machine Learning. I also work with the modern **IDX IDE** to streamline my development process.
+I specialize in creating powerful APIs using **Express.js** and **Node.js** while also delivering dynamic web experiences with **Next.js**. I bring versatility to my projects with proficiency in **Java** and **Python**, and I continuously explore innovative fields like **Machine Learning** and **Smart Contract Development** using **Solidity**.
 
-I enjoy crafting scalable solutions and pushing the limits of innovative technology. Welcome to my GitHub profile where you can explore my projects, view my technical stats, and connect with me!
+Welcome to my GitHub profile—feel free to explore my projects, check out my technical stats, and connect with me!
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Backend:** Express.js, Node.js
+- **Frontend:** Next.js, React.js, HTML, CSS
+- **Programming Languages:** Java, Python, JavaScript, Solidity
+- **Other Areas:** Machine Learning, Smart Contract Development
 
 ---
 
