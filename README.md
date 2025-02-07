@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">Hi there, I'm Rusith Karunarathne 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome Animation" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrNnNsZjltbmZrbndubWt4dGo2amd4bGRvNjFrNm5xMHl1aTVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N4bhUKlnCaEF2/giphy.gif" alt="Welcome Animation" width="300"/>
 </p>
 <p align="center"><strong>Backend API Developer | Express.js | Node.js | Firebase | React.js | Solidity | Machine Learning</strong></p>
 
