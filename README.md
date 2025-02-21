@@ -25,29 +25,28 @@ Welcome to my GitHub profile—feel free to explore my projects, check out my te
 ---
 
 ## Connect with Me
-
 <p align="center">
   <a href="https://www.instagram.com/rusi__thathsara/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/94701612572">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://snapchat.com/add/rusi_thathsara">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=social&logo=snapchat&logoColor=black" alt="Snapchat"/>
   </a>
   <a href="https://twitter.com/RusithThathsara">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=social&logo=twitter&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <!-- WeChat does not offer a direct clickable URL so it's provided as a badge -->
+  <!-- WeChat is provided as a badge since it doesn't support clickable URLs -->
   <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-7BB32E?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+    <img src="https://img.shields.io/badge/WeChat-7BB32E?style=social&logo=wechat&logoColor=white" alt="WeChat"/>
   </a>
   <a href="https://www.linkedin.com/in/rusithkarunarathne/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/rusith.thathsara.1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
@@ -95,9 +94,6 @@ I build projects ranging from robust backend APIs to modern web applications. Ex
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusithKarunarathne&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=RusithKarunarathne&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
