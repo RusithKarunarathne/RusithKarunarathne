@@ -97,8 +97,9 @@ I build projects ranging from robust backend APIs to modern web applications. Ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusithKarunarathne&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RusithKarunarathne&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=RusithKarunarathne&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
@@ -115,7 +116,7 @@ I build projects ranging from robust backend APIs to modern web applications. Ex
 ## Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RusithKarunarathne.RusithKarunarathne" alt="Visitor Count"/>
+  <img src="https://hits.dwyl.com/RusithKarunarathne/RusithKarunarathne.svg?style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 ---
