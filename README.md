@@ -1,112 +1,287 @@
-<h1 align="center">Rusith Karunarathne</h1>
+<div align="center">
 
-<p align="center">
-  <strong>FinTech Software Engineer | Backend APIs | Payment Infrastructure</strong>
-</p>
+# Rusith Karunarathne
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rusithkarunarathne/">
-    <img src="https://img.shields.io/badge/LinkedIn-rusithkarunarathne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RusithKarunarathne">
-    <img src="https://img.shields.io/badge/GitHub-RusithKarunarathne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://wa.me/94701612572">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+### Full-Stack Software Engineer · FinTech · Payment Systems · Cloud
+
+Building secure, scalable software across **payments, backend systems, real-time applications, and cloud infrastructure**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rusithkarunarathne)
+![Profile Views](https://komarev.com/ghpvc/?username=RusithKarunarathne\&style=for-the-badge\&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Full-Stack Software Engineer** with a strong focus on **FinTech and digital payment systems**.
+
+My work spans the full engineering lifecycle — from designing frontend experiences and backend APIs to building real-time services, integrating payment networks, managing databases, and deploying production infrastructure.
+
+A significant part of my engineering experience comes from working on **SriPay**, where I contribute across payment infrastructure, merchant systems, developer platforms, transaction processing, settlement workflows, and payment integrations.
+
+```text
+Focus        → FinTech · Payments · Backend Architecture · Cloud
+Frontend     → React · React Native · Next.js
+Backend      → Go · Node.js · Express.js
+Real-Time    → WebSockets · SSE · Event-Driven Systems
+Data         → PostgreSQL · MongoDB · Redis
+Cloud        → Google Cloud · Firebase · Linux · Nginx
+```
+
+---
+
+## FinTech & SriPay
+
+My work within the **SriPay digital payment ecosystem** covers multiple areas of production payment engineering.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Payment Infrastructure
+
+* Digital payment processing
+* Transaction lifecycle management
+* Online & in-store payments
+* QR payment infrastructure
+* Multi-currency transactions
+* Payment inquiry workflows
+* Cancellation & refund processing
+
+</td>
+<td width="50%" valign="top">
+
+### Merchant Infrastructure
+
+* Merchant onboarding
+* KYC workflows
+* Outlet management
+* Commission management
+* Settlement configuration
+* Merchant dashboards
+* Transaction analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Settlement & Banking
+
+* Real-time settlements
+* Scheduled settlements
+* Transaction reconciliation
+* Banking integrations
+* Host-to-Host integrations
+* Financial reporting workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Developer Platform
+
+* Developer APIs
+* API access management
+* Authentication & authorization
+* Developer credentials
+* API documentation
+* Integration tooling
+* Role-based access control
+
+</td>
+</tr>
+</table>
+
+### Payment Ecosystems
+
+<p align="left">
+
+`SriPay`  
+`Alipay+`  
+`LankaQR`  
+`UnionPay`  
+`UPI`  
+`WeChat Pay`  
+`Card Payments`
+
 </p>
 
 ---
 
-## About
+## Technology Stack
 
-I build backend systems for financial technology products, with a focus on APIs, secure transaction flows, payment integrations, and reliable service architecture.
+### Core Languages
 
-My work sits at the intersection of software engineering and digital payments: designing services, connecting platforms, supporting product operations, and building the infrastructure that helps money move safely and efficiently.
-
-I am currently connected with **Boswin (Private) Limited** and studying at the **University of Westminster**, while continuing to grow across backend engineering, cloud services, blockchain, and machine learning.
-
----
-
-## What I Am Working On
-
-- **SriPay**: fintech product and payment platform work focused on digital payment experiences, backend services, and integration reliability.
-- **SRO-related systems**: operational and technical work around payment workflows, platform support, and service coordination.
-- **API engineering**: building RESTful services with clean request handling, validation, authentication, and maintainable business logic.
-- **FinTech infrastructure**: working with transaction flows, third-party integrations, service reliability, and scalable backend patterns.
-- **Continuous learning**: improving skills in Solidity, blockchain systems, Java, Python, and machine learning.
-
----
-
-## Technical Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=for-the-badge" alt="Machine Learning"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,go,java,python,solidity" />
 </p>
 
----
+### Frontend Engineering
 
-## Core Skills
-
-- Backend API development with **Node.js**, **Express.js**, and RESTful architecture
-- Web application development with **React.js**, **Next.js**, HTML, and CSS
-- Cloud-backed application development with **Firebase**
-- Programming with **Java**, **Python**, **JavaScript**, and **Solidity**
-- Payment platform thinking: security, reliability, integrations, and operational workflows
-- Interest areas: **blockchain**, **smart contracts**, **machine learning**, and fintech automation
-
----
-
-## Certifications
-
-- Blockchain: Learning Solidity - LinkedIn
-- Postman API Fundamentals Student Expert - Postman
-- Learning Java 11 - LinkedIn
-- Intermediate Python - Sololearn
-- Critical Thinking - Project Management Institute
-- Cybersecurity Foundations - IIBA
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RusithKarunarathne&show_icons=true&theme=github_dark&hide_border=true" alt="Rusith Karunarathne GitHub stats"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusithKarunarathne&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+`React Native` · `Ant Design` · `Redux` · `React Router` · `i18next`
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RusithKarunarathne">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RusithKarunarathne&theme=github-dark&hide_border=true" alt="GitHub activity graph"/>
-  </a>
+`REST APIs` · `WebSockets` · `Server-Sent Events` · `Authentication` · `RBAC`
+
+### Data & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
 </p>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Firestore`
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,linux,nginx,docker,git,github" />
+</p>
+
+`Google Cloud Platform` · `Firebase` · `Linux` · `Nginx` · `Alibaba Cloud`
+
+---
+
+## Engineering Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+REST API architecture
+Authentication
+Authorization
+RBAC
+Request validation
+External integrations
+Background services
+
+</td>
+
+<td width="33%" valign="top">
+
+### Real-Time
+
+WebSockets
+SSE
+Real-time messaging
+User presence
+Connection management
+Live transaction updates
+Event-driven workflows
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Cloud deployments
+Linux administration
+Nginx
+Service management
+SSL/TLS
+Production debugging
+System monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Building
+
+```text
+01  FinTech & Digital Payments
+    Reliable infrastructure for modern payment experiences.
+
+02  Backend Architecture
+    Secure and scalable APIs for production applications.
+
+03  Real-Time Systems
+    Messaging, presence, WebSockets and live transaction flows.
+
+04  Developer Platforms
+    APIs, access control, credentials and integration tooling.
+
+05  Cloud Infrastructure
+    Production services running across cloud and Linux environments.
+```
+
+---
+
+## Beyond My Current Stack
+
+I'm continuously expanding my engineering knowledge in areas that complement large-scale financial systems.
+
+* Distributed Systems
+* System Design & Architecture
+* Machine Learning
+* Smart Contracts & Solidity
+* Cloud Architecture
+* Application Security
+* Payment Security
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RusithKarunarathne&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusithKarunarathne&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RusithKarunarathne&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## Featured Work
+
+My repositories cover projects across:
+
+**FinTech** · **Payment Systems** · **Backend APIs** · **Web Applications** · **Mobile Applications** · **Real-Time Systems** · **Cloud Infrastructure**
+
+Take a look at my pinned repositories below for selected projects and experiments.
 
 ---
 
 ## Connect
 
-I am open to conversations around fintech systems, backend engineering, payment integrations, blockchain learning, and practical software product development.
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rusithkarunarathne/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/rusi__thathsara/">
-    <img src="https://img.shields.io/badge/Instagram-rusi__thathsara-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/RusithThathsara">
-    <img src="https://img.shields.io/badge/X-RusithThathsara-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+### Let's build technology that solves real problems.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rusith%20Karunarathne-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rusithkarunarathne)
+
+<br/><br/>
+
+<sub>Full-Stack Engineering · FinTech · Payments · Backend · Cloud</sub>
+
+</div>
